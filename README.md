@@ -6,4 +6,6 @@ Developed as part of the MPAGs cpp course.
 
 ## How to install
 
+## Documentation
+
 **Authors** 

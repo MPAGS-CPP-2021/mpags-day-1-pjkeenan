@@ -9,5 +9,5 @@ Developed as part of the MPAGs cpp course.
 ## Documentation
 
 ## Extra Comments?
-MAKING A CONFLICT
+MAKING A CONFLICT  
 **Authors** 
